@@ -1,21 +1,8 @@
-OBJAVI ODMAH https://www.alkemija.hr/anketa/
-Zamijeni cijelu postojeću anketu (stara 1/5, Ambalaža, Print, fiksni naslov). Publish u istoj minuti. Ne čekaj potvrdu.
+OBJAVI ODMAH na naslovnici alkemija.hr.
 
-UVJETNA anketa (skip logic), ne linearna od 5 pitanja.
+Naslov iznad gumba Ispunite upitnik:
+KAKO VAM MOŽEMO POMOĆI
 
-Naslov stranice: Anketa
-URL: /anketa/
-Gumb: Kako Vam možemo pomoći
-
-Ispod gumba, manja slova:
-Ovaj upitnik je vođeni razgovor s vlasnikom tvrtke kako bismo razumijeli što mu treba (jedan od programa za vođenje tvrtke ili marketing upita, newslettera ili web izloga, ili možda web, partneri, predaja za tiskaru), a Alkemija iz toga složi redoslijed i ponudu, bez nagađanja.
-
-Naslov gore se mijenja uz pitanje, manja slova. Ne drži stalno Kako Vam možemo pomoći.
-
-Zabranjeno: Modulus, Ambalaža, Print, Alen Duka, 3. Pile 10, Zagreb, OIB.
-Ostavi: Alkemija studio · info@alkemija.hr · +385 98 516 852
-
-20 pitanja + skip logika kako u razgovoru.
-Sve na info@alkemija.hr.
-Zahvala: Proučit ćemo zahtjev.
-Na živoj stranici ne smije pisati 1/5.
+Mora biti ISTI stil, ISTA veličina slova i ALL CAPS kao naslov "25 GODINA ISKUSTVA U MARKETINGU I DIZAJNU".
+Ista klasa/heading kao taj naslov. Ne sivi manji tekst.
+Tekst ispod gumba ostaje isti (vođeni razgovor...).
