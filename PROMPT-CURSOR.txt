@@ -1,8 +1,17 @@
-OBJAVI ODMAH na naslovnici alkemija.hr.
+OBJAVI ODMAH na /anketa/ i naslovnici.
 
-Naslov iznad gumba Ispunite upitnik:
-KAKO VAM MOŽEMO POMOĆI
+Prvo pitanje ima SAMO 10 opcija (vise kvačica), grupirane zarezom. BEZ riječi Modulus.
 
-Mora biti ISTI stil, ISTA veličina slova i ALL CAPS kao naslov "25 GODINA ISKUSTVA U MARKETINGU I DIZAJNU".
-Ista klasa/heading kao taj naslov. Ne sivi manji tekst.
-Tekst ispod gumba ostaje isti (vođeni razgovor...).
+1. Mali obrt i tvrtka: kontakti, računi i ponude, web i obrasci
+2. Ugostiteljstvo i smještaj: restorani, mali hoteli, iznajmljivači
+3. Dental: rezervacije, kontakti, web
+4. Građevina i zgrade: ponude, inventar, kontakti
+5. Sportski klub: članovi, rezervacije, web
+6. Prodaja online: webshop, QR stranice, web
+7. Rezervacije / booking, mobilna aplikacija
+8. AI asistent, inventar / nabava
+9. Ne znam — predložite program
+10. Ne trebamo program, samo marketing
++ slobodno polje
+
+Naslov KAKO VAM MOŽEMO POMOĆI all caps kao 25 GODINA.
