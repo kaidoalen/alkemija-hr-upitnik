@@ -1,5 +1,9 @@
-OBJAVI ODMAH naslovnica alkemija.hr.
+OBJAVI ODMAH /anketa/ prvo pitanje.
 
-Ispod bijelog kvadrata ankete (Kako Vam možemo pomoći / Ispunite upitnik) podloga NE smije biti bijela.
-Stavi ISTI background kao prva sekcija homepagea (hero iza UZ ISKUSTVO S IMAGINACIJOM I TEHNIČKOM PODLOGOM): isti gradient / slika, full width.
-Bijeli kvadrat ankete ostaje iznad. Tekst i gumb ne diraj.
+Tri jasno odvojene grupe (naslovi velika slova):
+1. MODULUS POSAO — program za vođenje tvrtke
+2. POSLOVNA GRAFIKA — izgled, izlog, predaja za tiskaru
+3. KONTAKTI PO SVIJETU — partneri i distributeri
++ Još nije jasno
+
+Klijent mora odmah vidjeti što je što. Publish now.
