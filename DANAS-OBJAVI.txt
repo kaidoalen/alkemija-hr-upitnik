@@ -1,0 +1,6 @@
+OBJAVI ODMAH https://www.alkemija.hr/anketa/
+Zamijeni 1/5. Datoteka: anketa.html na Driveu.
+20 pitanja, skip logic. P1 programi ako trebaju, bez Modulus.
+Bez Ambalaža Print adrese. Naslov se mijenja. Tekst ispod gumba o vođenom razgovoru.
+Email nakon 7. Sve na info@alkemija.hr. Publish now.
+Dalje izmjene u Cursoru.
