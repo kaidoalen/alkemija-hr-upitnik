@@ -1,4 +1,7 @@
-OBJAVI ODMAH https://www.alkemija.hr/anketa/
-P1 samo 10 opcija grupiranih zarezom, bez Modulus.
-Naslov KAKO VAM MOŽEMO POMOĆI all caps kao 25 GODINA.
-Publish now.
+OBJAVI ODMAH naslovnica alkemija.hr.
+
+Element .alkemija-anketa-naslov sad je 18.9px sivi. KRIVO.
+
+Tekst: KAKO VAM MOŽEMO POMOĆI
+Mora biti ista HTML oznaka, ista klasa i isti CSS kao naslov "25 godina iskustva u marketingu i dizajnu" (veliki section heading, ALL CAPS, ista font-size i weight). Ne Open Sans 18.9px sivo.
+Gumb i odlomak ispod ne diraj.
