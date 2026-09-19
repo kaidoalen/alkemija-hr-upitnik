@@ -1,7 +1,5 @@
 OBJAVI ODMAH naslovnica alkemija.hr.
 
-Element .alkemija-anketa-naslov sad je 18.9px sivi. KRIVO.
-
-Tekst: KAKO VAM MOŽEMO POMOĆI
-Mora biti ista HTML oznaka, ista klasa i isti CSS kao naslov "25 godina iskustva u marketingu i dizajnu" (veliki section heading, ALL CAPS, ista font-size i weight). Ne Open Sans 18.9px sivo.
-Gumb i odlomak ispod ne diraj.
+Ispod bijelog kvadrata ankete (Kako Vam možemo pomoći / Ispunite upitnik) podloga NE smije biti bijela.
+Stavi ISTI background kao prva sekcija homepagea (hero iza UZ ISKUSTVO S IMAGINACIJOM I TEHNIČKOM PODLOGOM): isti gradient / slika, full width.
+Bijeli kvadrat ankete ostaje iznad. Tekst i gumb ne diraj.
