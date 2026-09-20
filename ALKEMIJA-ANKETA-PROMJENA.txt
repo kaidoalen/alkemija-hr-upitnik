@@ -1,0 +1,26 @@
+NAZIV ZADATKA: alkemija anketa promjena
+OBJAVI ODMAH. Ne čekaj potvrdu.
+
+https://www.alkemija.hr/anketa/
+Zamijeni staru anketu. Publish na /anketa/ i gumb na naslovnici (Kako Vam možemo pomoći?).
+
+Naslov: KAKO VAM MOŽEMO POMOĆI (all caps, kao 25 GODINA).
+
+Prvo pitanje SAMO 10 opcija, više kvačica, grupirane zarezom. BEZ riječi Modulus.
+1. Mali obrt i tvrtka: kontakti, računi i ponude, web i obrasci
+2. Ugostiteljstvo i smještaj: restorani, mali hoteli, iznajmljivači
+3. Dental: rezervacije, kontakti, web
+4. Građevina i zgrade: ponude, inventar, kontakti
+5. Sportski klub: članovi, rezervacije, web
+6. Prodaja online: webshop, QR stranice, web
+7. Rezervacije / booking, mobilna aplikacija
+8. AI asistent, inventar / nabava
+9. Ne znam — predložite program
+10. Ne trebamo program, samo marketing
++ slobodno polje
+
+Ispod gumba: Ovaj upitnik je vođeni razgovor s vlasnikom tvrtke kako bismo razumijeli što mu treba (jedan od programa za vođenje tvrtke ili marketing upita, newslettera ili web izloga, ili možda web, partneri, predaja za tiskaru), a Alkemija iz toga složi redoslijed i ponudu, bez nagađanja.
+
+Sve na info@alkemija.hr.
+Bez Ambalaža, Print, imena i adrese u pitanjima.
+Kad dobiješ ovu datoteku — odmah objavi.
