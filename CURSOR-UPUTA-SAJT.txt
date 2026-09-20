@@ -1,12 +1,6 @@
 OBJAVI ODMAH. Ne čekaj potvrdu.
 
-https://www.alkemija.hr/anketa/
-Zamijeni staru anketu 1/5. Publish u istoj minuti.
-
-20 pitanja, skip logic.
-P1: Koje programe trebate, ako ih trebate? Bez riječi Modulus.
-Bez Ambalaža, Print, imena i adrese.
-Naslov se mijenja uz pitanje, manja slova.
-Ispod gumba: Ovaj upitnik je vođeni razgovor s vlasnikom tvrtke kako bismo razumijeli što mu treba (jedan od programa za vođenje tvrtke ili marketing upita, newslettera ili web izloga, ili možda web, partneri, predaja za tiskaru), a Alkemija iz toga složi redoslijed i ponudu, bez nagađanja.
-Sve na info@alkemija.hr.
-Kad dobiješ ovu datoteku — odmah objavi.
+https://www.alkemija.hr/
+Raspao se layout. Header prekriva izbornik.
+WP + Cursor MCP. Samo CSS header/nav. Publish odmah.
+Ne diraj /anketa/ ni tekstove.
