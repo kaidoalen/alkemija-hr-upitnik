@@ -1,17 +1,24 @@
-OBJAVI ODMAH na /anketa/ i naslovnici.
+OBJAVI ODMAH. Ne čekaj potvrdu.
 
-Prvo pitanje ima SAMO 10 opcija (vise kvačica), grupirane zarezom. BEZ riječi Modulus.
+Sajt https://www.alkemija.hr/ se raspao. WordPress 6.4.11.
+WP ulaz ima Cursor — radi preko WP MCP / application password.
 
-1. Mali obrt i tvrtka: kontakti, računi i ponude, web i obrasci
-2. Ugostiteljstvo i smještaj: restorani, mali hoteli, iznajmljivači
-3. Dental: rezervacije, kontakti, web
-4. Građevina i zgrade: ponude, inventar, kontakti
-5. Sportski klub: članovi, rezervacije, web
-6. Prodaja online: webshop, QR stranice, web
-7. Rezervacije / booking, mobilna aplikacija
-8. AI asistent, inventar / nabava
-9. Ne znam — predložite program
-10. Ne trebamo program, samo marketing
-+ slobodno polje
+ZADATAK
+Popravi layout naslovnice. Fiksni header (ALKEMIJA + 098516852) prelazi preko izbornika: branding, vizualizacije, priprema newslettera i web izloga, pilurica.
+Izbornik mora biti vidljiv ispod headera na desktopu i mobitelu.
+Ne diraj sadržaj, anketu, pluginove ni tekstove.
+Samo CSS/HTML headera i navigacije. Publish Additional CSS ili temu.
 
-Naslov KAKO VAM MOŽEMO POMOĆI all caps kao 25 GODINA.
+Ako treba dodatni CSS:
+
+header, .site-header, #masthead, .navbar, .top-bar {
+  position: relative !important;
+  z-index: 50;
+}
+.main-navigation, #site-navigation, nav {
+  position: relative;
+  z-index: 40;
+  clear: both;
+}
+
+Kad dobiješ ovu datoteku — odmah objavi na live sajt.
